@@ -2,7 +2,7 @@
 
 The backend API plugin used by the frontend plugin. This plugin wraps a few Azure Resource Graph queries to pull information about your Azure resource resources in relation to a backstage entity.
 
-`` I have updated original repo and is working witn backstage new backend ``
+`` I have updated original repo and it is working now with backstage new backend ``
 
 ## Getting started
 
